@@ -6504,3 +6504,7 @@ Banner Area Three Style
     font-size: 2.7rem !important
   }
 }
+
+.min-height{
+  min-height: 100% !important;
+}
